@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00bfff?style=flat-quare&labelColor=00bfff&logo=Linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/nuh-%C3%A7olakkadio%C4%9Flu-0579a250)
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link)]
+
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nuhcolakkadioglu&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=nuhcolakkadioglu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhcolakkadioglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
