@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+-🌱 I’m currently learning Angular, .NET Core 6, Typescript, Microservices etc.
+
+
 - ♪🛩🥽⛷️🪂🏂🏄🏊🖥️👨‍💻
 
 <!--
