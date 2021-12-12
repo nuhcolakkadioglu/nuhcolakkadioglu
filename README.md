@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/nuhcolakkadioglu) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/nuhcolakkadioglu) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://github.com/nuhcolakkadioglu) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00bfff?style=flat-quare&labelColor=00bfff&logo=Linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/nuh-%C3%A7olakkadio%C4%9Flu-0579a250)
