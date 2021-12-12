@@ -1,5 +1,5 @@
 ### Hi there 👋
--🌱 I’m currently learning Angular, .NET Core 6, Typescript, Microservices etc.
+-🌱 I’m currently learning Angular, .NET Core 6, ES6 >, React ,Typescript, Microservices etc.
 
 
 - ♪🛩🥽⛷️🪂🏂🏄🏊🖥️👨‍💻
