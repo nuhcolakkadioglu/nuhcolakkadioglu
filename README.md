@@ -3,7 +3,6 @@
 
 
 - 🖥️👨‍💻
-
 <!--
 **nuhcolakkadioglu/nuhcolakkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/nuhcolakkadioglu) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://github.com/nuhcolakkadioglu) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@n.colakkadioglu) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00bfff?style=flat-quare&labelColor=00bfff&logo=Linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/nuh-colakkadioglu)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nuhcolakkadioglu" alt="nuhcolakkadioglu" /> </p>
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nuhcolakkadioglu&show_icons=true&theme=gradient) 
