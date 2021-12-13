@@ -2,7 +2,7 @@
 -🌱 I’m currently learning Angular, .NET Core 6, ES6 >, React ,Typescript, Microservices etc.
 
 
-- ♪🛩🥽⛷️🪂🏂🏄🏊🖥️👨‍💻
+- 🖥️👨‍💻
 
 <!--
 **nuhcolakkadioglu/nuhcolakkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
