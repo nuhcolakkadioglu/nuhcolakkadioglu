@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@n.colakkadioglu) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00bfff?style=flat-quare&labelColor=00bfff&logo=Linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/nuh-colakkadioglu)
 <img src="https://komarev.com/ghpvc/?username=nuhcolakkadioglu" alt="nuhcolakkadioglu" />
-
+ 
 ### Languages and Tools:
 
 <img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
