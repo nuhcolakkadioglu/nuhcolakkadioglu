@@ -1,5 +1,5 @@
 ### Hi there 👋
--🌱 I’m currently learning Angular, .NET Core 6, ES6 >, React , Microservices etc.
+-🌱 I’m currently learning  .NET Core , ES6 >, React , Microservices etc.
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@n.colakkadioglu) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00bfff?style=flat-quare&labelColor=00bfff&logo=Linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/nuh-colakkadioglu)
